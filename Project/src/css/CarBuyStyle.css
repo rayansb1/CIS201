@@ -1,0 +1,72 @@
+body{
+    font-family:Californian FB;
+    padding: 0%;
+    margin-top: 0%;
+    margin: 0%;
+background-color:#fffbe4;
+}
+ #first-part{
+    display: inline-table;
+    font-size: 15px;
+    font-family:Californian FB;
+}
+#second-part{
+display: inline-table;
+font-family:Californian FB;
+}
+#space{
+    display: inline-table;
+    width:10px;
+}
+#third-part{
+background: linear-gradient(141deg, #dcdcdc 0%, #d3d3d3 51%, #efefef 75%);
+border-radius:15px;
+display: inline-table;
+width: 436px;
+text-align: center;
+font-size:18px;
+font-family:Californian FB;
+color: #000000;
+}
+label{
+    font-size: 30px;
+    font-family:Californian FB;
+}
+input{
+    font-size: 20px;
+    font-family:Californian FB;
+}
+h3{
+    font-size: 20px;
+    font-family:Californian FB;
+}
+button{
+    font-size: 30px;
+    width: 200px;
+    height: 50px;
+    background-color: #ededed;
+}
+button:hover{
+    background-color: #1b1b1b;
+    color: #c7c7c7;
+    border: 2px solid white;
+}
+#f pre{
+    display:inline-block;
+    font-family:Californian FB;
+}
+#f p{
+    display: inline-block;
+    font-size:30px;
+   font-family:Californian FB; 
+}
+#f button:hover{
+color: #000000;
+background-color:#ededed;
+border:solid 2px #000000;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
