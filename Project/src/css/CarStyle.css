@@ -1,0 +1,57 @@
+body {
+    max-width: 100%;
+	margin-top: 0px;
+	margin-right: center;
+	margin-left: center;
+	padding: center;
+  background-color: #ECECEC;
+  color: rgb(74, 74, 74);
+  font-family:Californian FB;
+}
+button{
+    border: none;
+    transition: 0.8s;
+    animation: changeBgFooter 7s linear infinite;
+    animation: changeBgbutton 7s linear infinite;
+    background-color: rgba(0, 0, 0, 0);
+	color:#18462a
+
+}
+#f button{
+    animation: changeBgbuttoni 7s linear infinite;
+	border: solid 0px white;
+
+}
+@keyframes changeBgbutton {
+	0%{
+		color: #0C441F;
+	}
+	50%{
+		color: rgb(255, 255, 255);
+	}
+	100%{
+		color: #0C441F;
+	}
+}
+@keyframes changeBgbuttoni {
+	0%{
+		color: #000000;
+	}
+	50%{
+		color:#000000;
+	}
+	100%{
+		color:#000000;
+	}
+}
+button:hover{
+	color:#D9D8D8;
+  border: solid 2px white;
+}
+.car{
+	box-shadow: 10px 10px 20px 20px  rgb(46, 46, 46);
+
+} 
+pre{
+	font-family: 'Courier New', Courier, monospace;
+}
