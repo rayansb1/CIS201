@@ -1,1 +1,1 @@
-# Web Design Course
+# Fundamentals of Web Design Course
